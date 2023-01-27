@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asentaja\\OneDrive - Business College Helsinki\\Tiedostot\\GitHub\\Olio-ohjelmointi\\Enumeraatio Tehtävä\\teht1-ovi\\teht1-ovi.csproj": {}
+    "C:\\Users\\Asentaja\\OneDrive - Business College Helsinki\\Tiedostot\\GitHub\\Olio-ohjelmointi\\Tehtävä 2 - Ruoka-annos Generaattori\\Tehtävä 2 - Ruoka-annos Generaattori\\Tehtävä 2 - Ruoka-annos Generaattori.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asentaja\\OneDrive - Business College Helsinki\\Tiedostot\\GitHub\\Olio-ohjelmointi\\Enumeraatio Tehtävä\\teht1-ovi\\teht1-ovi.csproj": {
+    "C:\\Users\\Asentaja\\OneDrive - Business College Helsinki\\Tiedostot\\GitHub\\Olio-ohjelmointi\\Tehtävä 2 - Ruoka-annos Generaattori\\Tehtävä 2 - Ruoka-annos Generaattori\\Tehtävä 2 - Ruoka-annos Generaattori.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asentaja\\OneDrive - Business College Helsinki\\Tiedostot\\GitHub\\Olio-ohjelmointi\\Enumeraatio Tehtävä\\teht1-ovi\\teht1-ovi.csproj",
-        "projectName": "teht1-ovi",
-        "projectPath": "C:\\Users\\Asentaja\\OneDrive - Business College Helsinki\\Tiedostot\\GitHub\\Olio-ohjelmointi\\Enumeraatio Tehtävä\\teht1-ovi\\teht1-ovi.csproj",
+        "projectUniqueName": "C:\\Users\\Asentaja\\OneDrive - Business College Helsinki\\Tiedostot\\GitHub\\Olio-ohjelmointi\\Tehtävä 2 - Ruoka-annos Generaattori\\Tehtävä 2 - Ruoka-annos Generaattori\\Tehtävä 2 - Ruoka-annos Generaattori.csproj",
+        "projectName": "Tehtävä 2 - Ruoka-annos Generaattori",
+        "projectPath": "C:\\Users\\Asentaja\\OneDrive - Business College Helsinki\\Tiedostot\\GitHub\\Olio-ohjelmointi\\Tehtävä 2 - Ruoka-annos Generaattori\\Tehtävä 2 - Ruoka-annos Generaattori\\Tehtävä 2 - Ruoka-annos Generaattori.csproj",
         "packagesPath": "C:\\Users\\Asentaja\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asentaja\\OneDrive - Business College Helsinki\\Tiedostot\\GitHub\\Olio-ohjelmointi\\Enumeraatio Tehtävä\\teht1-ovi\\obj\\",
+        "outputPath": "C:\\Users\\Asentaja\\OneDrive - Business College Helsinki\\Tiedostot\\GitHub\\Olio-ohjelmointi\\Tehtävä 2 - Ruoka-annos Generaattori\\Tehtävä 2 - Ruoka-annos Generaattori\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asentaja\\AppData\\Roaming\\NuGet\\NuGet.Config",

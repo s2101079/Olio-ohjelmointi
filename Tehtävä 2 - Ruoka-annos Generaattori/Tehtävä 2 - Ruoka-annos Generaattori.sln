@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tehtävä 2 - Ruoka-annos Generaattori", "Tehtävä 2 - Ruoka-annos Generaattori\Tehtävä 2 - Ruoka-annos Generaattori.csproj", "{1F5AD0B6-BDD5-4255-9FD4-75CFF8C4DCFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F5AD0B6-BDD5-4255-9FD4-75CFF8C4DCFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F5AD0B6-BDD5-4255-9FD4-75CFF8C4DCFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F5AD0B6-BDD5-4255-9FD4-75CFF8C4DCFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F5AD0B6-BDD5-4255-9FD4-75CFF8C4DCFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {773775F8-3F62-44EB-B68B-06CE4B52273B}
+	EndGlobalSection
+EndGlobal
