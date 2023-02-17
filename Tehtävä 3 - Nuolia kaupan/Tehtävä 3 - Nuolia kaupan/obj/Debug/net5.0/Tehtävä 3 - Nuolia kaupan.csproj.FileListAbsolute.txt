@@ -1,0 +1,16 @@
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\Tehtävä 3 - Nuolia kaupan\Tehtävä 3 - Nuolia kaupan\bin\Debug\net5.0\Tehtävä 3 - Nuolia kaupan.exe
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\Tehtävä 3 - Nuolia kaupan\Tehtävä 3 - Nuolia kaupan\bin\Debug\net5.0\Tehtävä 3 - Nuolia kaupan.deps.json
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\Tehtävä 3 - Nuolia kaupan\Tehtävä 3 - Nuolia kaupan\bin\Debug\net5.0\Tehtävä 3 - Nuolia kaupan.runtimeconfig.json
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\Tehtävä 3 - Nuolia kaupan\Tehtävä 3 - Nuolia kaupan\bin\Debug\net5.0\Tehtävä 3 - Nuolia kaupan.runtimeconfig.dev.json
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\Tehtävä 3 - Nuolia kaupan\Tehtävä 3 - Nuolia kaupan\bin\Debug\net5.0\Tehtävä 3 - Nuolia kaupan.dll
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\Tehtävä 3 - Nuolia kaupan\Tehtävä 3 - Nuolia kaupan\bin\Debug\net5.0\ref\Tehtävä 3 - Nuolia kaupan.dll
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\Tehtävä 3 - Nuolia kaupan\Tehtävä 3 - Nuolia kaupan\bin\Debug\net5.0\Tehtävä 3 - Nuolia kaupan.pdb
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\Tehtävä 3 - Nuolia kaupan\Tehtävä 3 - Nuolia kaupan\obj\Debug\net5.0\Tehtävä 3 - Nuolia kaupan.csproj.AssemblyReference.cache
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\Tehtävä 3 - Nuolia kaupan\Tehtävä 3 - Nuolia kaupan\obj\Debug\net5.0\Tehtävä 3 - Nuolia kaupan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\Tehtävä 3 - Nuolia kaupan\Tehtävä 3 - Nuolia kaupan\obj\Debug\net5.0\Tehtävä 3 - Nuolia kaupan.AssemblyInfoInputs.cache
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\Tehtävä 3 - Nuolia kaupan\Tehtävä 3 - Nuolia kaupan\obj\Debug\net5.0\Tehtävä 3 - Nuolia kaupan.AssemblyInfo.cs
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\Tehtävä 3 - Nuolia kaupan\Tehtävä 3 - Nuolia kaupan\obj\Debug\net5.0\Tehtävä 3 - Nuolia kaupan.csproj.CoreCompileInputs.cache
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\Tehtävä 3 - Nuolia kaupan\Tehtävä 3 - Nuolia kaupan\obj\Debug\net5.0\Tehtävä 3 - Nuolia kaupan.dll
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\Tehtävä 3 - Nuolia kaupan\Tehtävä 3 - Nuolia kaupan\obj\Debug\net5.0\ref\Tehtävä 3 - Nuolia kaupan.dll
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\Tehtävä 3 - Nuolia kaupan\Tehtävä 3 - Nuolia kaupan\obj\Debug\net5.0\Tehtävä 3 - Nuolia kaupan.pdb
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\Tehtävä 3 - Nuolia kaupan\Tehtävä 3 - Nuolia kaupan\obj\Debug\net5.0\Tehtävä 3 - Nuolia kaupan.genruntimeconfig.cache
