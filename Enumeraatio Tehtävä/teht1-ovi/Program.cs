@@ -1,9 +1,9 @@
 ﻿using System;
-string currDoorState = "Päätä oven tila";
+DoorState currentState = DoorState.kiinni;
 
 while (0 == 0)
 {
-    Console.WriteLine("ovi on " + currDoorState + " Mitä haluaisit tehdä: " );
+    Console.WriteLine("ovi on " + Convert.ToString(currentState) + " Mitä haluaisit tehdä: " );
     if (Enum.TryParse<DoorState>(Console.ReadLine(), ignoreCase: true, out var state))
     {
 
@@ -12,9 +12,9 @@ while (0 == 0)
         {
             
             case DoorState.auki:
-                if (currDoorState == "Päätä oven tila" || currDoorState == "Kiinni")
+                if (currentState == DoorState.kiinni)
                 {
-                    currDoorState = "Auki";
+                    currentState = DoorState.auki;
                 }
                 else
                 {
@@ -23,9 +23,9 @@ while (0 == 0)
                 break;
                 
             case DoorState.lukitse:
-                if (currDoorState == "Päätä oven tila" || currDoorState == "Kiinni")
+                if (currentState == DoorState.kiinni)
                 {
-                    currDoorState = "Lukitse";
+                    currentState = DoorState.lukitse;
                 }
                 else
                 {
@@ -34,9 +34,9 @@ while (0 == 0)
                     
                 break;
             case DoorState.kiinni:
-                if (currDoorState == "Päätä oven tila" || currDoorState == "Auki" || currDoorState == "Lukitse")
+                if (currentState == DoorState.auki || currentState == DoorState.lukitse)
                 {
-                    currDoorState = "Kiinni";
+                    currentState = DoorState.kiinni;
                 }
                     
                 break;

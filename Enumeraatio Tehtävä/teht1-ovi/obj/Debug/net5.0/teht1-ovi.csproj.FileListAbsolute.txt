@@ -14,3 +14,19 @@ C:\Users\Asentaja\OneDrive - Business College Helsinki\olio-ohjelmointi\teht1-ov
 C:\Users\Asentaja\OneDrive - Business College Helsinki\olio-ohjelmointi\teht1-ovi\teht1-ovi\obj\Debug\net5.0\ref\teht1-ovi.dll
 C:\Users\Asentaja\OneDrive - Business College Helsinki\olio-ohjelmointi\teht1-ovi\teht1-ovi\obj\Debug\net5.0\teht1-ovi.pdb
 C:\Users\Asentaja\OneDrive - Business College Helsinki\olio-ohjelmointi\teht1-ovi\teht1-ovi\obj\Debug\net5.0\teht1-ovi.genruntimeconfig.cache
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\Enumeraatio Tehtävä\teht1-ovi\bin\Debug\net5.0\teht1-ovi.exe
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\Enumeraatio Tehtävä\teht1-ovi\bin\Debug\net5.0\teht1-ovi.deps.json
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\Enumeraatio Tehtävä\teht1-ovi\bin\Debug\net5.0\teht1-ovi.runtimeconfig.json
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\Enumeraatio Tehtävä\teht1-ovi\bin\Debug\net5.0\teht1-ovi.runtimeconfig.dev.json
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\Enumeraatio Tehtävä\teht1-ovi\bin\Debug\net5.0\teht1-ovi.dll
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\Enumeraatio Tehtävä\teht1-ovi\bin\Debug\net5.0\ref\teht1-ovi.dll
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\Enumeraatio Tehtävä\teht1-ovi\bin\Debug\net5.0\teht1-ovi.pdb
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\Enumeraatio Tehtävä\teht1-ovi\obj\Debug\net5.0\teht1-ovi.csproj.AssemblyReference.cache
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\Enumeraatio Tehtävä\teht1-ovi\obj\Debug\net5.0\teht1-ovi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\Enumeraatio Tehtävä\teht1-ovi\obj\Debug\net5.0\teht1-ovi.AssemblyInfoInputs.cache
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\Enumeraatio Tehtävä\teht1-ovi\obj\Debug\net5.0\teht1-ovi.AssemblyInfo.cs
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\Enumeraatio Tehtävä\teht1-ovi\obj\Debug\net5.0\teht1-ovi.csproj.CoreCompileInputs.cache
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\Enumeraatio Tehtävä\teht1-ovi\obj\Debug\net5.0\teht1-ovi.dll
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\Enumeraatio Tehtävä\teht1-ovi\obj\Debug\net5.0\ref\teht1-ovi.dll
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\Enumeraatio Tehtävä\teht1-ovi\obj\Debug\net5.0\teht1-ovi.pdb
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\Enumeraatio Tehtävä\teht1-ovi\obj\Debug\net5.0\teht1-ovi.genruntimeconfig.cache
