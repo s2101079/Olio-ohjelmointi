@@ -3,7 +3,7 @@ Robotti roboto = new Robotti();
 
 while (true)
 {
-    Console.WriteLine("mitä käskyjä haluat syöttää valintoja : Käynnistä, Sammuta, Ylös, Alas, Oikea tai Vasen");
+    Console.WriteLine("mitä käskyjä haluat syöttää valintoja : Käynnistä, Sammuta, Ylös, Alas, Oikea tai Vasen" );
     string valinta1 = Console.ReadLine();
     if (valinta1 == "Käynnistä")
     {
