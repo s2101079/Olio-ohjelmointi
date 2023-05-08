@@ -101,7 +101,7 @@ public class Robotti
         foreach (RobottiKäsky? käsky in Käskyt)
         {
             käsky?.Suorita(this);
-            Console.WriteLine($"[{X} {Y} {OnKäynnissä}]");
+            Console.WriteLine($"[{X} {Y} {OnKäynnissä}]" );
         }
     }
 }
