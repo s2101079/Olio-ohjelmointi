@@ -1,0 +1,16 @@
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\tehtävä5\tehtävä5\obj\Debug\net5.0\tehtävä5.csproj.AssemblyReference.cache
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\tehtävä5\tehtävä5\obj\Debug\net5.0\tehtävä5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\tehtävä5\tehtävä5\obj\Debug\net5.0\tehtävä5.AssemblyInfoInputs.cache
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\tehtävä5\tehtävä5\obj\Debug\net5.0\tehtävä5.AssemblyInfo.cs
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\tehtävä5\tehtävä5\obj\Debug\net5.0\tehtävä5.csproj.CoreCompileInputs.cache
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\tehtävä5\tehtävä5\bin\Debug\net5.0\tehtävä5.exe
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\tehtävä5\tehtävä5\bin\Debug\net5.0\tehtävä5.deps.json
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\tehtävä5\tehtävä5\bin\Debug\net5.0\tehtävä5.runtimeconfig.json
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\tehtävä5\tehtävä5\bin\Debug\net5.0\tehtävä5.runtimeconfig.dev.json
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\tehtävä5\tehtävä5\bin\Debug\net5.0\tehtävä5.dll
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\tehtävä5\tehtävä5\bin\Debug\net5.0\ref\tehtävä5.dll
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\tehtävä5\tehtävä5\bin\Debug\net5.0\tehtävä5.pdb
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\tehtävä5\tehtävä5\obj\Debug\net5.0\tehtävä5.dll
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\tehtävä5\tehtävä5\obj\Debug\net5.0\ref\tehtävä5.dll
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\tehtävä5\tehtävä5\obj\Debug\net5.0\tehtävä5.pdb
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\tehtävä5\tehtävä5\obj\Debug\net5.0\tehtävä5.genruntimeconfig.cache
