@@ -1,0 +1,16 @@
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\KevinHarjoitustyö\KevinHarjoitustyö\obj\Debug\net5.0\KevinHarjoitustyö.csproj.AssemblyReference.cache
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\KevinHarjoitustyö\KevinHarjoitustyö\obj\Debug\net5.0\KevinHarjoitustyö.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\KevinHarjoitustyö\KevinHarjoitustyö\obj\Debug\net5.0\KevinHarjoitustyö.AssemblyInfoInputs.cache
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\KevinHarjoitustyö\KevinHarjoitustyö\obj\Debug\net5.0\KevinHarjoitustyö.AssemblyInfo.cs
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\KevinHarjoitustyö\KevinHarjoitustyö\obj\Debug\net5.0\KevinHarjoitustyö.csproj.CoreCompileInputs.cache
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\KevinHarjoitustyö\KevinHarjoitustyö\bin\Debug\net5.0\KevinHarjoitustyö.exe
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\KevinHarjoitustyö\KevinHarjoitustyö\bin\Debug\net5.0\KevinHarjoitustyö.deps.json
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\KevinHarjoitustyö\KevinHarjoitustyö\bin\Debug\net5.0\KevinHarjoitustyö.runtimeconfig.json
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\KevinHarjoitustyö\KevinHarjoitustyö\bin\Debug\net5.0\KevinHarjoitustyö.runtimeconfig.dev.json
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\KevinHarjoitustyö\KevinHarjoitustyö\bin\Debug\net5.0\KevinHarjoitustyö.dll
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\KevinHarjoitustyö\KevinHarjoitustyö\bin\Debug\net5.0\ref\KevinHarjoitustyö.dll
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\KevinHarjoitustyö\KevinHarjoitustyö\bin\Debug\net5.0\KevinHarjoitustyö.pdb
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\KevinHarjoitustyö\KevinHarjoitustyö\obj\Debug\net5.0\KevinHarjoitustyö.dll
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\KevinHarjoitustyö\KevinHarjoitustyö\obj\Debug\net5.0\ref\KevinHarjoitustyö.dll
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\KevinHarjoitustyö\KevinHarjoitustyö\obj\Debug\net5.0\KevinHarjoitustyö.pdb
+C:\Users\Asentaja\OneDrive - Business College Helsinki\Tiedostot\GitHub\Olio-ohjelmointi\KevinHarjoitustyö\KevinHarjoitustyö\obj\Debug\net5.0\KevinHarjoitustyö.genruntimeconfig.cache
